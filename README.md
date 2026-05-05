@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer3268&show_icons=true&locale=en" alt="sameer3268" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=sameer3268&" alt="sameer3268" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com&" alt="sameer3268" /></p>
