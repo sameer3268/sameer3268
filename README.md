@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/sameer89476502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameer89476502" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sameer-ansari-32111b257i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-ansari-32111b257i" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sameer ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sameer ansari" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/"21012142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sameer ansari" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sam3268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sam3268" height="30" width="40" /></a>
 <a href="https://kaggle.com/sameer3268212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sameer3268212" height="30" width="40" /></a>
 <a href="https://fb.com/sameer3268212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameer3268212" height="30" width="40" /></a>
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer3268&show_icons=true&locale=en" alt="sameer3268" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer3268&" alt="sameer3268" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=sameer3268&" alt="sameer3268" /></p>
